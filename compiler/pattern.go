@@ -3,8 +3,8 @@ package compiler
 import (
 	"strconv"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
-	"github.com/Yachiyo-5i/moejs/syntax"
+	"github.com/Yachiiiiyo/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/syntax"
 )
 
 // bindPattern stores the value in register src into pat: an identifier, a

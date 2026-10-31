@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Yachiyo-5i/moejs"
-	"github.com/Yachiyo-5i/moejs/bytecode"
-	"github.com/Yachiyo-5i/moejs/compiler"
-	"github.com/Yachiyo-5i/moejs/engine"
+	"github.com/Yachiiiiyo/moejs"
+	"github.com/Yachiiiiyo/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/compiler"
+	"github.com/Yachiiiiyo/moejs/engine"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

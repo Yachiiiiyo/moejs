@@ -3,8 +3,8 @@ package engine
 import (
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs/compiler"
-	"github.com/Yachiyo-5i/moejs/syntax"
+	"github.com/Yachiiiiyo/moejs/compiler"
+	"github.com/Yachiiiiyo/moejs/syntax"
 )
 
 // benchModule compiles and evaluates src in a fresh realm and returns the

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Yachiyo-5i/moejs"
+	"github.com/Yachiiiiyo/moejs"
 )
 
 // MoejsOptions configures the native adapter.

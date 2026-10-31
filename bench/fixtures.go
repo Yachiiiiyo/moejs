@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Yachiyo-5i/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
 )
 
 // PluginKeys lists the plugin corpus in report order.

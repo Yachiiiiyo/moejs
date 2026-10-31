@@ -3,7 +3,7 @@ package engine
 import (
 	"math/big"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // The BigInt operators. The interpreter's number fast paths never reach

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
 )
 
 // classModule holds the class micro programs (shaped like BenchmarkMicro:

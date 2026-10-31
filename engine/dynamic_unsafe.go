@@ -3,7 +3,7 @@ package engine
 import (
 	"unsafe"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // The funcMeta of a dynamic root is the first field of its dynRoot, so a

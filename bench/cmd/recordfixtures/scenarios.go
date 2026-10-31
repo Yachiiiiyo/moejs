@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Yachiyo-5i/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
 )
 
 // scenario is one hook call to record; Args are JSON-shaped Go values.

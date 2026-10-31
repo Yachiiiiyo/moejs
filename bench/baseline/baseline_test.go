@@ -14,7 +14,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs"
+	"github.com/Yachiiiiyo/moejs"
 	quickjs "github.com/buke/quickjs-go"
 	"github.com/grafana/sobek"
 	v8 "rogchap.com/v8go"

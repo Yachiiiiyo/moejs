@@ -4,8 +4,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
-	"github.com/Yachiyo-5i/moejs/engine"
+	"github.com/Yachiiiiyo/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/engine"
 	"github.com/stretchr/testify/assert"
 )
 

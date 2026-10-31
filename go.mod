@@ -1,4 +1,4 @@
-module github.com/Yachiyo-5i/moejs
+module github.com/Yachiiiiyo/moejs
 
 go 1.25
 

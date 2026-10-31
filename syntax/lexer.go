@@ -9,7 +9,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/Yachiyo-5i/moejs/internal/regexpsyntax"
+	"github.com/Yachiiiiyo/moejs/internal/regexpsyntax"
 )
 
 // bailout is the panic value used to abort parsing at the first error. The

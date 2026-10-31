@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs"
+	"github.com/Yachiiiiyo/moejs"
 	"github.com/grafana/sobek"
 	"github.com/grafana/sobek/parser"
 	"github.com/stretchr/testify/assert"

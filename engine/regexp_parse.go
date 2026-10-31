@@ -1,6 +1,6 @@
 package engine
 
-import "github.com/Yachiyo-5i/moejs/internal/regexpsyntax"
+import "github.com/Yachiiiiyo/moejs/internal/regexpsyntax"
 
 // Pattern parsing lives in internal/regexpsyntax, which the syntax package
 // shares to reject invalid regexp literals at parse time. The aliases below

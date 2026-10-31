@@ -51,7 +51,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Yachiyo-5i/moejs/engine"
+	"github.com/Yachiiiiyo/moejs/engine"
 )
 
 type (

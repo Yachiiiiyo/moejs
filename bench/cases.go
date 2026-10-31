@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Yachiyo-5i/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
 )
 
 // HookCase is one fixture case with its arguments decoded once and its

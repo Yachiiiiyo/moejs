@@ -8,7 +8,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/Yachiyo-5i/moejs/engine"
+	"github.com/Yachiiiiyo/moejs/engine"
 )
 
 // Options configures NewRuntime.

@@ -7,7 +7,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // Stack traces in V8's format (Error.prototype.stack, Error.captureStackTrace).

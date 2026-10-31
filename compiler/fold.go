@@ -4,7 +4,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/Yachiyo-5i/moejs/syntax"
+	"github.com/Yachiiiiyo/moejs/syntax"
 )
 
 // constKind classifies a folded constant.

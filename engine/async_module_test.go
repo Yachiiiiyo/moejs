@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Yachiyo-5i/moejs/compiler"
-	"github.com/Yachiyo-5i/moejs/syntax"
+	"github.com/Yachiiiiyo/moejs/compiler"
+	"github.com/Yachiiiiyo/moejs/syntax"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

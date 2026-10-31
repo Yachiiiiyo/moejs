@@ -14,8 +14,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Yachiyo-5i/moejs/bench"
-	"github.com/Yachiyo-5i/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs/bench"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package engine
 import (
 	"math/bits"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // Dynamic code: the code eval, the Function constructors and

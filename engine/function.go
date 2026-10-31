@@ -3,7 +3,7 @@ package engine
 import (
 	"errors"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // NativeFunc is the Go signature of a builtin function. args may alias the

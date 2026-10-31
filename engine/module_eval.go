@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // Per-realm module instances and their evaluation (ECMA-262 §16.2.1.5.3).

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/Yachiyo-5i/moejs/internal/regexpsyntax"
+	"github.com/Yachiiiiyo/moejs/internal/regexpsyntax"
 )
 
 // regexpChecker validates the regexp literals of one parse, reusing its

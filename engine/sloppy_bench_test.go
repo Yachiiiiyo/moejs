@@ -3,8 +3,8 @@ package engine
 import (
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs/compiler"
-	"github.com/Yachiyo-5i/moejs/syntax"
+	"github.com/Yachiiiiyo/moejs/compiler"
+	"github.com/Yachiiiiyo/moejs/syntax"
 )
 
 // BenchmarkSloppyOps runs loops of ops dispatched off the jump table

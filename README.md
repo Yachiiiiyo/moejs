@@ -1,5 +1,5 @@
 > FORK — no upstream sync with Calcium-Ion/moejs.
-> Module path: github.com/Yachiyo-5i/moejs. Forked at 81508091e81452055003d1459f84c4323ca8303d.
+> Module path: github.com/Yachiiiiyo/moejs. Forked at 81508091e81452055003d1459f84c4323ca8303d.
 
 <div align="center">
 
@@ -74,7 +74,7 @@ a V8-style stack trace. A runtime stays usable after a host function panics.
 ## Quick start
 
 ```sh
-go get github.com/Yachiyo-5i/moejs
+go get github.com/Yachiiiiyo/moejs
 ```
 
 moejs needs Go 1.25 or later and depends only on the standard library (tests
@@ -91,7 +91,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Yachiyo-5i/moejs"
+	"github.com/Yachiiiiyo/moejs"
 )
 
 const source = `
@@ -263,7 +263,7 @@ A server calling plugins the way `Plugin` does pays the least per request.
 Taking a runtime from the pool is one channel receive, while a new runtime
 with the largest plugin loaded takes about 71 µs. The [guide](docs/guide.md)
 covers pools, module graphs, value conversion, promises and errors, and the
-[package documentation](https://pkg.go.dev/github.com/Yachiyo-5i/moejs)
+[package documentation](https://pkg.go.dev/github.com/Yachiiiiyo/moejs)
 describes every function.
 
 `Options.MaxAllocBytes` limits the estimated bytes one outermost call
@@ -276,7 +276,7 @@ applies a profile automatically only from the main package's directory, so
 pass it when you build:
 
 ```sh
-go build -pgo="$(go list -m -f '{{.Dir}}' github.com/Yachiyo-5i/moejs)/default.pgo" .
+go build -pgo="$(go list -m -f '{{.Dir}}' github.com/Yachiiiiyo/moejs)/default.pgo" .
 ```
 
 ## JavaScript support

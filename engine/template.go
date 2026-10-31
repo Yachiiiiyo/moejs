@@ -3,7 +3,7 @@ package engine
 import (
 	"unicode/utf8"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // Tagged-template objects (GetTemplateObject). Each GetTemplate site owns one

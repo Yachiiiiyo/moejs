@@ -7,10 +7,10 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
-	"github.com/Yachiyo-5i/moejs/compiler"
-	"github.com/Yachiyo-5i/moejs/engine"
-	"github.com/Yachiyo-5i/moejs/syntax"
+	"github.com/Yachiiiiyo/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/compiler"
+	"github.com/Yachiiiiyo/moejs/engine"
+	"github.com/Yachiiiiyo/moejs/syntax"
 )
 
 // Module is a compiled ES module. It is immutable: any number of runtimes

@@ -4,7 +4,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/Yachiyo-5i/moejs/bytecode"
+	"github.com/Yachiiiiyo/moejs/bytecode"
 )
 
 // SameValue implements SameValue (NaN equals NaN, +0 differs from -0).

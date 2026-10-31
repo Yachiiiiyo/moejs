@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs/bench/engines"
-	"github.com/Yachiyo-5i/moejs/engine"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs/engine"
 )
 
 // TestICCensus reports the inline-cache misses of the plugins (loading and

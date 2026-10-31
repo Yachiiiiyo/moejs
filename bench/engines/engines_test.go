@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Yachiyo-5i/moejs"
-	"github.com/Yachiyo-5i/moejs/bench/engines"
+	"github.com/Yachiiiiyo/moejs"
+	"github.com/Yachiiiiyo/moejs/bench/engines"
 	"github.com/grafana/sobek"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
